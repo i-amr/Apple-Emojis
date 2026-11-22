@@ -12,7 +12,7 @@ A complete, organized collection of Apple emojis provided in both **160x160** an
   * ♂️♀️ Custom Male/Female gender signs
 
 
-## ⚖️ What's New
+## 📰 What's New
 
 * optimize emojis to reduce size
 
